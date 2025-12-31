@@ -25,7 +25,7 @@ Python • Shell Scripting
 Linux (Ubuntu)
 
 #### 🔁 CI/CD & Monitoring
-GitHub • Git • Nginx • Tomcat • Postman
+GitHub • Git • Nginx • Tomcat • Postman • Prometheous  • Grafana 
 
 ---
 
