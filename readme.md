@@ -4,10 +4,8 @@
 ---
 
 ### 🌐 About Me
-Passionate DevOps & Cloud enthusiast skilled in building scalable, secure, and automated infrastructure.  
-Experienced with Linux administration, CI/CD pipelines, containerization, IaC, and cloud services.  
-Love solving real-world deployment challenges and continuously learning modern technologies.
-
+I am a passionate DevOps & Cloud Engineer who thrives on building systems that are fast, scalable, secure, and fully automated. I love transforming manual processes into reliable pipelines and turning complex deployments into one-click magic. With strong hands-on skills in containerization, IaC, CI/CD automation, and cloud infrastructure — I aim to design environments where innovation deploys itself 🚀
+Learning never stops for me. Whether it’s a new Kubernetes trick or an AWS service, I’m always leveling up to stay ahead in this cloud-native world.
 ---
 
 ## 🚀 Tech Stack & Tools
@@ -15,6 +13,21 @@ Love solving real-world deployment challenges and continuously learning modern t
 ### ☁ Cloud & Virtualization
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+### 🗂 Version Control & Code Collaboration
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+### 💻 Programming & OS
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=yellow"/>
+</p>
+### 🧪 API Testing & Collaboration
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🐳 DevOps & Automation
@@ -31,24 +44,17 @@ Love solving real-world deployment challenges and continuously learning modern t
   <img src="https://img.shields.io/badge/Jacoco-F2C300?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 💻 Programming & OS
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=yellow"/>
-</p>
 
-### 🔁 CI/CD & Monitoring
+### 🔁 Web Server
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+### 🔁 Monitoring Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
-
 ---
 
 ## 🔧 What I Do
