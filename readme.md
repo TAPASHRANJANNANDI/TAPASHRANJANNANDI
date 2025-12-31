@@ -4,8 +4,8 @@
 ---
 
 ### 🌐 About Me
-**I am a passionate DevOps & Cloud Engineer who thrives on building systems that are fast, scalable, secure, and fully automated. I love transforming manual processes into reliable pipelines and turning complex deployments into one-click magic. With strong hands-on skills in containerization, IaC, CI/CD automation, and cloud infrastructure — I aim to design environments where innovation deploys itself 🚀
-Learning never stops for me. Whether it’s a new Kubernetes trick or an AWS service, I’m always leveling up to stay ahead in this cloud-native world.**
+I am a passionate DevOps & Cloud Engineer who thrives on building systems that are fast, scalable, secure, and fully automated. I love transforming manual processes into reliable pipelines and turning complex deployments into one-click magic. With strong hands-on skills in containerization, IaC, CI/CD automation, and cloud infrastructure — I aim to design environments where innovation deploys itself 🚀
+Learning never stops for me. Whether it’s a new Kubernetes trick or an AWS service, I’m always leveling up to stay ahead in this cloud-native world.
 ---
 
 ## 🚀 Tech Stack & Tools
@@ -30,6 +30,7 @@ Learning never stops for me. Whether it’s a new Kubernetes trick or an AWS ser
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=yellow"/>
 </p>
+
 🧪 API Testing & Collaboration
 
 <p align="left">
