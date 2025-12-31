@@ -4,8 +4,8 @@
 ---
 
 ### 🌐 About Me
-I am a passionate DevOps & Cloud Engineer who thrives on building systems that are fast, scalable, secure, and fully automated. I love transforming manual processes into reliable pipelines and turning complex deployments into one-click magic. With strong hands-on skills in containerization, IaC, CI/CD automation, and cloud infrastructure — I aim to design environments where innovation deploys itself 🚀
-Learning never stops for me. Whether it’s a new Kubernetes trick or an AWS service, I’m always leveling up to stay ahead in this cloud-native world.
+<p align="justify">I am a passionate DevOps & Cloud Engineer who thrives on building systems that are fast, scalable, secure, and fully automated. I love transforming manual processes into reliable pipelines and turning complex deployments into one-click magic. With strong hands-on skills in containerization, IaC, CI/CD automation, and cloud infrastructure — I aim to design environments where innovation deploys itself 🚀
+Learning never stops for me. Whether it’s a new Kubernetes trick or an AWS service, I’m always leveling up to stay ahead in this cloud-native world.</p>
 ---
 
 ## 🚀 Tech Stack & Tools
